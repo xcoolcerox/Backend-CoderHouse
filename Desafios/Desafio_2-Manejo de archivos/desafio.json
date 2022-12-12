@@ -1,0 +1,20 @@
+[
+	{
+		"title": "Producto 1",
+		"description": "Probando sistema",
+		"price": 1500,
+		"thumbnail": "insertar imagen",
+		"code": "1",
+		"stock": 56,
+		"id": 1
+	},
+	{
+		"title": "Producto 2",
+		"description": "Probando sistema",
+		"price": 3400,
+		"thumbnail": "insertar imagen",
+		"code": "2",
+		"stock": 16,
+		"id": 2
+	}
+]
