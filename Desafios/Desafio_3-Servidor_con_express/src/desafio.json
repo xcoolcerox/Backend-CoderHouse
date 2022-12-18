@@ -1,0 +1,101 @@
+[
+	{
+		"title": "Producto 1",
+		"description": "Probando sistema",
+		"price": 1500,
+		"thumbnail": "insertar imagen",
+		"code": "1",
+		"stock": 56,
+		"id": 1
+	},
+	{
+		"title": "Producto 2",
+		"description": "Probando sistema",
+		"price": 3400,
+		"thumbnail": "insertar imagen",
+		"code": "2",
+		"stock": 16,
+		"id": 2
+	},
+	{
+		"title": "Producto 3",
+		"description": "Probando sistema",
+		"price": 5400,
+		"thumbnail": "insertar imagen",
+		"code": "3",
+		"stock": 20,
+		"id": 3
+	},
+	{
+		"title": "Producto 4",
+		"description": "Probando sistema",
+		"price": 6400,
+		"thumbnail": "insertar imagen",
+		"code": "4",
+		"stock": 30,
+		"id": 4
+	},
+	{
+		"title": "Producto 5",
+		"description": "Probando sistema",
+		"price": 7400,
+		"thumbnail": "insertar imagen",
+		"code": "5",
+		"stock": 40,
+		"id": 5
+	},
+	{
+		"title": "Producto 6",
+		"description": "Probando sistema",
+		"price": 8400,
+		"thumbnail": "insertar imagen",
+		"code": "6",
+		"stock": 50,
+		"id": 6
+	},
+	{
+		"title": "Producto 7",
+		"description": "Probando sistema",
+		"price": 9400,
+		"thumbnail": "insertar imagen",
+		"code": "7",
+		"stock": 60,
+		"id": 7
+	},
+	{
+		"title": "Producto 8",
+		"description": "Probando sistema",
+		"price": 100,
+		"thumbnail": "insertar imagen",
+		"code": "8",
+		"stock": 70,
+		"id": 8
+	},
+	{
+		"title": "Producto 9",
+		"description": "Probando sistema",
+		"price": 200,
+		"thumbnail": "insertar imagen",
+		"code": "9",
+		"stock": 80,
+		"id": 9
+	},
+	{
+		"title": "Producto 10",
+		"description": "Probando sistema",
+		"price": 300,
+		"thumbnail": "insertar imagen",
+		"code": "10",
+		"stock": 90,
+		"id": 10
+	},
+	{
+		"title": "Producto 11",
+		"description": "Probando sistema",
+		"price": 400,
+		"thumbnail": "insertar imagen",
+		"code": "11",
+		"stock": 100,
+		"id": 11
+	}
+]
